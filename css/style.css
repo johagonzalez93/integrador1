@@ -1,0 +1,94 @@
+.btn#verde
+{
+    background-color: #9acd32;
+}
+.carousel-item
+{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+    background: rgba(0, 0, 0, 0.8)
+    
+}
+
+.card-group
+{
+    height: 40px;
+    width: 65%;
+  
+}
+
+.card
+{
+    margin-right: 20px;
+}
+.centrar
+{
+    text-align: center;
+        position: absolute;
+        top: 50%;
+        left: 72%;
+        transform: translate(-50%, -50%);
+
+}
+
+.text-middle
+{
+    text-align: center;
+}
+
+
+
+div.badge#cuadrado
+{
+    border: #000030 0.3px solid;
+}
+
+/*.col-mod-2#img1
+{
+    height: 200px;
+    width: 70%;
+}
+*/
+.card#playa
+{
+    text-align: center;
+    position: relative;
+    top: 500px;
+        
+}
+
+img.img-fluid
+{
+    height: 300px;
+    width: 850px;
+}
+
+.btn#conoce
+{
+    position: relative;
+    right: 41%;
+}
+
+.contenedor-form
+{
+    width: 50%;
+    margin-left: 25%;
+}
+
+footer
+{
+    font-size: 0.75em;
+    text-align: justify;
+    height:55px;
+    background: rgb(30,50,87);
+    background: linear-gradient(90deg, rgba(30,50,87,1) 36%, rgba(20,74,101,1) 98%);
+    
+}
+
+.nav-item#separar
+{
+    margin-right: 30px;
+}
+
