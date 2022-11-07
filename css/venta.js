@@ -94,6 +94,6 @@ function reset_total_a_pagar()
     pagar.innerHTML="";
 }
     
-    btnResumen.addEventListener('click',total_a_pagar)
+    btnResumen.addEventListener('click',total_a_pagar);
     
     btnBorrar.addEventListener("click",reset_total_a_pagar);
