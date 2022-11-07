@@ -92,3 +92,35 @@ footer
     margin-right: 30px;
 }
 
+.container#porcentajes
+{
+    margin-left: 200px;
+}
+
+.p-3#columna
+{
+    height: 180px;
+    width: 220px;
+
+}
+
+.btn#btnBorrar
+{
+    width:430px;
+    height:40px;
+    background-color: #9acd32;
+}
+
+.btn#btnResumen
+{
+    width:430px;
+    height:40px;
+    background-color: #9acd32;
+}
+
+
+.contenedor-form#ticket
+{
+    width: 70%;
+    margin-left: 15%;
+}
